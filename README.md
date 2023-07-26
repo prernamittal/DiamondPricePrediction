@@ -26,6 +26,7 @@ The code splits the data into training and testing sets using the train_test_spl
 Evaluation metrics are used to measure the performance of the machine learning models. In this code, the mean_absolute_error(), mean_squared_error(), r2_score(), and math.sqrt() functions from sklearn and math libraries are used to calculate the Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared score (R2 score), and Root Mean Squared Error (RMSE) of the machine learning models.
   <li><b>Comparison of R2 Score:</b>
 Finally, the R2 score of both the models are compared and printed for analysis. The R2 score is a statistical measure that represents the proportion of variance in the dependent variable that is predicted by the independent variables in a regression model. A higher R2 score indicates a better fit of the model.
+  </li></ol>
     
 # Tech Stack:
 <li>Python
