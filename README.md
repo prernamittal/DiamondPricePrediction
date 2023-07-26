@@ -10,7 +10,7 @@ Finally, we use the best-performing model to make predictions on a separate test
 
 In conclusion, this project demonstrates the potential of machine learning algorithms in predicting diamond prices, and provides a practical solution for the diamond industry.
 
-<h2>Steps:</h2>
+# Steps:
 <ol>
 <li><b>Importing Required Libraries:</b>
 The first step is to import the required libraries in Python, which are pandas, seaborn, matplotlib.pyplot, numpy, and sklearn. These libraries are used for data manipulation, visualization, and machine learning model building.
@@ -27,4 +27,14 @@ Evaluation metrics are used to measure the performance of the machine learning m
   <li><b>Comparison of R2 Score:</b>
 Finally, the R2 score of both the models are compared and printed for analysis. The R2 score is a statistical measure that represents the proportion of variance in the dependent variable that is predicted by the independent variables in a regression model. A higher R2 score indicates a better fit of the model.
     
-    
+# Tech Stack:
+<li>Python
+<li>Streamlit
+<li>Python Libraries: pandas, seaborn, matplotlib.pyplot, numpy, sklearn
+<li>Jupyter Notebook
+
+# Deployment:
+Test the deployed model [here](https://diamondpriceprediction.streamlit.app/)
+
+# Demo:
+![](https://github.com/prernamittal/DiamondPricePrediction/blob/main/demo.gif)
